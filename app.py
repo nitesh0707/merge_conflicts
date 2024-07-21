@@ -6,3 +6,6 @@ def division(a,b):
 
 def substraction(a,b):
     return a-b
+
+def power(a,b):
+    return a**b
